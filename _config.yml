@@ -11,10 +11,10 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: (781) 291-3834
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
@@ -22,12 +22,11 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/danielfahy
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/danielfahy
+  Twitter: https://x.com/daniel_fahy
   Facebook:
   Slack:
 
