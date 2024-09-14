@@ -1,21 +1,21 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: CandidTech.nyc
+subtitle:
+email: candidtechllc@gmail.com
+description: Expert Product Development <br/> At NYC Startup Speed
 baseurl: "/about" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 140 E 45th St, 41st FL
+city: New York
+state: NY
+zip_code: 10017
 country: United States of America
 phone: (781) 291-3834
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
