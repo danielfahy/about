@@ -8,4 +8,7 @@ author: null
 show_tile: true
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Our founder Daniel has been working with technology startups, building, launching, learning, and iterating quickly for over a decade.
+
+If you're interested in working together please complete the form below and Daniel will get in touch.
+We're currently at capacity for our client services work but we're always happy to help make introductions or give candid technology advice to startups with growing pains.
