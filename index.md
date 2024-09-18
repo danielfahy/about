@@ -1,14 +1,16 @@
 ---
 layout: home
 title: Home
-landing-title: "Building the right SaaS? <br/> Let's build it right."
+landing-title: "Building a software product? <br/> Let's build it right." 
 description: null
 image: null
 author: null
 show_tile: true
 ---
 
-Our founder Daniel has been working with technology startups, building, launching, learning, and iterating quickly for over a decade.
+Moving quickly and iterating is in our DNA. Our founder <a href='https://www.linkedin.com/in/danielfahy/'> Daniel Fahy </a> has over a decade of experience building for high growth technical startups including <a href='https://order.co/'> Order.co </a>, <a href='https://www.salido.com/'> Salido.com </a> and <a href='https://OnePageCRM.com'> OnePageCRM.com</a>.
 
-If you're interested in working together please complete the form below and Daniel will get in touch.
-We're currently at capacity for our client services work but we're always happy to help make introductions or give candid technology advice to startups with growing pains.
+Lean startups don't have middle-managers or complex process documents and neither do we.
+
+We're currently at capacity delivering for <a href='https://www.gifthealth.com/'> GiftHealth.com </a>. 
+Get in touch below and we'll will get back to you as soon as we have bandwidth.
