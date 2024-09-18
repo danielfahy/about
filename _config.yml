@@ -4,7 +4,7 @@ subtitle:
 email: candidtechllc@gmail.com
 description: Product Development at NYC Speed
 baseurl: "/about" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: candidtech.nyc
 author:
 street_address: 140 E 45th St, 41st FL
 city: New York
