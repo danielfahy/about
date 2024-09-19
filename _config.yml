@@ -3,7 +3,7 @@ title: CandidTech.nyc
 subtitle:
 email: candidtechllc@gmail.com
 description: Product Development at NYC Speed
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl:
 url: https://candidtech.nyc
 author: 
 street_address: 140 E 45th St, 41st FL
