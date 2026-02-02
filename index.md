@@ -8,7 +8,7 @@ author: null
 show_tile: true
 ---
 
-Moving quickly and iterating is in our DNA. Our team Adam, CJ and Daniel have over a three decades of experience building high growth technical startups including <a href='https://order.co/'> Order.co </a>, <a href='https://www.salido.com/'> Salido.com </a> and <a href='https://OnePageCRM.com'> OnePageCRM.com</a>.
+Moving quickly and iterating is in our DNA. Our team Adam, CJ and Daniel have over three decades of experience building high growth technical startups including <a href='https://order.co/'> Order.co </a>, <a href='https://www.salido.com/'> Salido.com </a> and <a href='https://OnePageCRM.com'> OnePageCRM.com</a>.
 
 Lean startups don't have middle-managers or complex process documents. Neither do we.
 
