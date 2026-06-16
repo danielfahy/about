@@ -5,12 +5,7 @@ email: candidtechllc@gmail.com
 description: Product Development at NYC Speed
 baseurl:
 url: https://candidtech.nyc
-author: 
-street_address: 140 E 45th St, 41st FL
-city: New York
-state: NY
-zip_code: 10017
-country: United States of America
+author:
 phone: (781) 291-3834
 
 # homepage tiles
